@@ -1,0 +1,3 @@
+[submodule "Multipage-spa-frontend"]
+	path = Multipage-spa-frontend
+	url = https://github.com/harsh-arora-6/Multipage-spa-frontend.git
